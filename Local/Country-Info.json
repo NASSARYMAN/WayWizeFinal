@@ -1,0 +1,176 @@
+[
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f7.svg",
+        "name": "Argentina",
+        "code": "ar",
+        "description": "Experience the passion and beauty of Argentina. Explore the vibrant neighborhoods of Buenos Aires and the stunning landscapes of Patagonia. Discover the historic sites of Mendoza and the natural wonders of Ibera Wetlands. Indulge in delicious Argentine cuisine, from steak and empanadas to dulce de leche and mate. Visit iconic landmarks, vineyards, and tango shows. With its rich culture and diverse landscapes, Argentina offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fa.svg",
+        "name": "Australia",
+        "code": "au",
+        "description": "Discover the natural beauty and outdoor adventures of Australia. Explore the vibrant cities of Sydney and Melbourne and the stunning landscapes of the Great Barrier Reef and Uluru. Discover the Aboriginal culture and wildlife sanctuaries. Indulge in delicious Australian cuisine, from seafood and barbecue to meat pies and lamingtons. Visit iconic landmarks, national parks, and beaches. With its diverse landscapes and warm hospitality, Australia offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f7.svg",
+        "name": "Brazil",
+        "code": "br",
+        "description": "Discover the natural beauty and cultural diversity of Brazil. Explore the vibrant streets of Rio de Janeiro and the stunning landscapes of Iguazu Falls. Discover the historic sites of Salvador and the pristine beaches of Florianopolis. Indulge in delicious Brazilian cuisine, from feijoada and coxinha to acai bowls and caipirinhas. Visit iconic landmarks, national parks, and carnival celebrations. With its rich culture and breathtaking scenery, Brazil offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e6.svg",
+        "name": "Canada",
+        "code": "ca",
+        "description": "Discover the natural beauty and outdoor adventures of Canada. Explore the picturesque streets of Quebec City and the stunning landscapes of Banff National Park. Discover the vibrant culture of Toronto and the historic sites of Ottawa. Indulge in delicious Canadian cuisine, from poutine and maple syrup to salmon and Nanaimo bars. Visit charming towns, scenic drives, and wildlife sanctuaries. With its breathtaking scenery and warm hospitality, Canada offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ed.svg",
+        "name": "Switzerland",
+        "code": "ch",
+        "description": "Discover the breathtaking beauty and outdoor adventures of Switzerland. Explore the charming villages of the Swiss Alps and the pristine lakes of Lucerne and Geneva. Indulge in delicious Swiss cuisine, from fondue and raclette to chocolate and Swiss cheese. Experience thrilling activities such as skiing, hiking, and paragliding. Visit picturesque towns and historic landmarks. With its stunning scenery and warm hospitality, Switzerland offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f3.svg",
+        "name": "China",
+        "code": "cn",
+        "description": "Embark on a journey through the ancient wonders and modern marvels of China. Explore the Great Wall, one of the most iconic landmarks in the world. Marvel at the Terracotta Army in Xi'an and discover the ancient treasures of the Forbidden City in Beijing. Cruise along the Yangtze River and witness the breathtaking landscapes of Guilin. Experience the vibrant culture of Shanghai and sample delicious street food in Chengdu. With its rich history and diverse landscapes, China offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg",
+        "name": "Germany",
+        "code": "de",
+        "description": "Experience the vibrant culture and historic landmarks of Germany. Explore the medieval towns of Bavaria and the cosmopolitan cities of Berlin and Munich. Discover the beauty of the Rhine Valley and the Black Forest. Indulge in delicious German cuisine, from hearty sausages and pretzels to schnitzel and strudel. Visit charming Christmas markets and explore the world-class museums and galleries. With its rich history and diverse landscapes, Germany offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ec.svg",
+        "name": "Egypt",
+        "code": "eg",
+        "description": "Step back in time and explore the wonders of ancient Egypt. Marvel at the majestic Pyramids of Giza, one of the Seven Wonders of the Ancient World. Cruise along the Nile River and discover the temples of Luxor and the Valley of the Kings. Explore bustling bazaars in Cairo and sample authentic Egyptian cuisine. Dive into the crystal-clear waters of the Red Sea and explore vibrant coral reefs teeming with marine life. With its rich history and unparalleled beauty, Egypt is a timeless destination."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f8.svg",
+        "name": "Spain",
+        "code": "es",
+        "description": "Experience the passion, history, and beauty of Spain. Explore the vibrant streets of Barcelona and the historic architecture of Madrid. Discover the stunning beaches of the Costa del Sol and the rugged landscapes of Andalusia. Indulge in delicious Spanish cuisine, from paella and tapas to churros and sangria. Visit iconic landmarks and historic sites, from the Alhambra to the Sagrada Familia. With its rich culture and diverse landscapes, Spain offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f9.svg",
+        "name": "Ethiopia",
+        "code": "et",
+        "description": "Discover the ancient treasures of Ethiopia, where history comes alive. Explore the rock-hewn churches of Lalibela, carved from solid rock over 800 years ago. Visit the medieval castles of Gondar and explore the stunning Simien Mountains. Trek to the source of the Blue Nile and witness the breathtaking beauty of the Danakil Depression. Sample traditional Ethiopian cuisine, including injera bread and spicy stews. With its rich history and natural beauty, Ethiopia offers a unique and unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f7.svg",
+        "name": "France",
+        "code": "fr",
+        "description": "Experience the art, culture, and romance of France. Explore the historic landmarks of Paris, including the Eiffel Tower and the Louvre. Discover the picturesque villages of Provence and the sun-kissed beaches of the French Riviera. Indulge in delicious French cuisine, from croissants and baguettes to coq au vin and escargot. Visit world-class vineyards and explore charming nameside chateaux. With its rich history and diverse landscapes, France offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg",
+        "name": "United Kingdom",
+        "code": "gb",
+        "description": "Discover the rich history and cultural heritage of the United Kingdom. Explore the historic landmarks of London, including the Tower of London and Buckingham Palace. Visit the picturesque villages of the Cotswolds and the rugged landscapes of Scotland. Indulge in traditional British cuisine, from fish and chips to afternoon tea. Explore ancient castles, charming gardens, and iconic landmarks. With its diverse landscapes and vibrant cities, the United Kingdom offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1e9.svg",
+        "name": "Indonesia",
+        "code": "id",
+        "description": "Explore the natural wonders and cultural diversity of Indonesia. Discover the lush rainforests of Sumatra and the stunning beaches of Bali. Dive into the vibrant coral reefs of Raja Ampat and Komodo National Park. Trek to the top of Mount Bromo and witness the beauty of Borobudur Temple. Immerse yourself in the rich culture of Java and sample delicious Indonesian cuisine. With its breathtaking landscapes and warm hospitality, Indonesia offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f3.svg",
+        "name": "India",
+        "code": "in",
+        "description": "Immerse yourself in the colors, flavors, and traditions of India. Explore the majestic palaces of Rajasthan and witness the beauty of the Taj Mahal at sunrise. Cruise along the backwaters of Kerala and relax on the beaches of Goa. Discover the ancient temples of Varanasi and the bustling markets of Delhi. Indulge in delicious Indian cuisine, from spicy curries to savory street food. With its rich cultural heritage and diverse landscapes, India offers an unforgettable journey of discovery."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f9.svg",
+        "name": "Italy",
+        "code": "it",
+        "description": "Discover the beauty, history, and cuisine of Italy. Explore the ancient ruins of Rome and the Renaissance art of Florence. Discover the charming canals of Venice and the stunning Amalfi Coast. Indulge in delicious Italian cuisine, from pizza and pasta to gelato and tiramisu. Visit world-renowned landmarks and historic sites. With its rich cultural heritage and breathtaking landscapes, Italy offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f5.svg",
+        "name": "Japan",
+        "code": "jp",
+        "description": "Experience the harmony of tradition and innovation in Japan. Explore the ancient temples of Kyoto and the vibrant streets of Tokyo. Witness the beauty of cherry blossoms in spring and colorful foliage in autumn. Indulge in authentic Japanese cuisine, from sushi and ramen to tempura and kaiseki. Relax in serene hot springs and discover the art of tea ceremony. With its rich culture and stunning landscapes, Japan offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ea.svg",
+        "name": "Kenya",
+        "code": "ke",
+        "description": "Embark on a safari adventure in the heart of Africa's wilderness. Witness the Great Migration in the Maasai Mara National Reserve, where millions of wildebeest and zebras roam the savannah. Trek to the snow-capped peaks of Mount Kenya and explore the scenic Rift Valley lakes. Immerse yourself in Maasai culture and traditions with a visit to a local village. Relax on pristine beaches along the Swahili Coast or embark on a thrilling hot air balloon safari. With its diverse landscapes and rich wildlife, Kenya offers an unforgettable safari experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f7.svg",
+        "name": "South Korea",
+        "code": "kr",
+        "description": "Discover the dynamic culture and natural beauty of South Korea. Explore the historic palaces of Seoul and the bustling markets of Busan. Hike in the picturesque nameside of Jeju Island and relax in traditional Korean spas. Indulge in delicious Korean cuisine, from barbecue and bibimbap to kimchi and seafood pancakes. Experience the excitement of K-pop and traditional performances. With its rich heritage and modern amenities, South Korea offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fd.svg",
+        "name": "Mexico",
+        "code": "mx",
+        "description": "Experience the vibrant culture and rich history of Mexico. Explore the colorful streets of Mexico City and the ancient ruins of Chichen Itza. Discover the stunning beaches of Cancun and the colonial charm of Oaxaca. Indulge in delicious Mexican cuisine, from tacos and tamales to mole and churros. Visit historic landmarks, archaeological sites, and cultural festivals. With its warm hospitality and diverse landscapes, Mexico offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ec.svg",
+        "name": "Nigeria",
+        "code": "ng",
+        "description": "Experience the vibrant cultural tapestry of Nigeria, where over 250 ethnic groups coexist harmoniously. Immerse yourself in the pulsating rhythms of Afrobeat music and explore the thriving art scene. Discover the lush rainforests, stunning coastlines, and diverse wildlife, including elephants, lions, and chimpanzees. Don't miss the opportunity to sample delicious Nigerian cuisine, renowned for its bold flavors and spices. From bustling markets to ancient cities, Nigeria offers a rich tapestry of experiences waiting to be explored."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f1.svg",
+        "name": "Netherlands",
+        "code": "nl",
+        "description": "Experience the charm and beauty of the Netherlands. Explore the historic canals of Amsterdam and the picturesque windmills of Kinderdijk. Discover the vibrant tulip fields of Keukenhof and the colorful markets of Rotterdam. Indulge in delicious Dutch cuisine, from stroopwafels and cheese to pancakes and herring. Visit world-class museums and galleries showcasing Dutch art and history. With its rich culture and scenic landscapes, the Netherlands offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ff.svg",
+        "name": "New Zealand",
+        "code": "nz",
+        "description": "Experience the adventure and beauty of New Zealand. Explore the stunning landscapes of Milford Sound and the Bay of Islands. Discover the Maori culture and outdoor adventures. Indulge in delicious New Zealand cuisine, from seafood and lamb to pavlova and hokey pokey ice cream. Visit iconic landmarks, national parks, and hot springs. With its breathtaking scenery and warm hospitality, New Zealand offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg",
+        "name": "Poland",
+        "code": "pl",
+        "description": "Discover the rich history and cultural heritage of Poland. Explore the historic streets of Krakow and the charming Old Town of Warsaw. Discover the stunning landscapes of the Tatra Mountains and the Mazury Lakes. Indulge in delicious Polish cuisine, from pierogi and kielbasa to vodka and paczki. Visit historic castles, palaces, and churches. With its vibrant culture and warm hospitality, Poland offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fa.svg",
+        "name": "Russia",
+        "code": "ru",
+        "description": "Embark on a journey through the vast landscapes and rich history of Russia. Explore the iconic landmarks of Moscow, including Red Square and the Kremlin. Marvel at the beauty of St. Petersburg's palaces and cathedrals. Cruise along the Volga River and discover the charming villages of the Golden Ring. Experience the beauty of Lake Baikal, the deepest lake in the world. Indulge in delicious Russian cuisine, from borscht and blini to caviar and vodka. With its rich history and diverse landscapes, Russia offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e6.svg",
+        "name": "Saudi Arabia",
+        "code": "sa",
+        "description": "Experience the rich heritage and hospitality of Saudi Arabia. Discover the ancient Nabatean city of Al-Ula and the historic mosques of Medina. Explore the stunning Red Sea coastline and the towering sand dunes of the Empty Quarter. Indulge in delicious Saudi cuisine, from grilled meats and aromatic rice dishes to sweet pastries and dates. Witness the breathtaking beauty of the Arabian desert and the pristine oases scattered throughout the kingdom. With its rich history and natural beauty, Saudi Arabia offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ea.svg",
+        "name": "Sweden",
+        "code": "se",
+        "description": "Experience the natural beauty and vibrant culture of Sweden. Explore the charming streets of Stockholm and the stunning archipelago of Gothenburg. Discover the Northern Lights in Swedish Lapland and the picturesque nameside of Skåne. Indulge in delicious Swedish cuisine, from meatballs and herring to cinnamon buns and lingonberry jam. Visit historic castles, art galleries, and museums. With its rich heritage and diverse landscapes, Sweden offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f7.svg",
+        "name": "Turkey",
+        "code": "tr",
+        "description": "Experience the blend of East and West in the cultural melting pot of Turkey. Explore the ancient ruins of Ephesus and the fairy-tale landscapes of Cappadocia. Relax on pristine beaches along the Turquoise Coast and cruise along the Bosphorus in Istanbul. Indulge in delicious Turkish cuisine, from kebabs and baklava to meze and Turkish delight. Discover the vibrant bazaars and colorful markets selling everything from spices to carpets. With its rich history and stunning landscapes, Turkey offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg",
+        "name": "United States",
+        "code": "us",
+        "description": "Experience the diversity and excitement of the United States. Explore the vibrant streets of New York City and the iconic landmarks of Washington, D.C. Discover the natural wonders of Yellowstone National Park and the Grand Canyon. Indulge in delicious American cuisine, from burgers and barbecue to apple pie and hot dogs. Visit world-class museums, theme parks, and entertainment venues. With its rich culture and diverse landscapes, the United States offers an unforgettable travel experience."
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1e6.svg",
+        "name": "South Africa",
+        "code": "za",
+        "description": "Embark on a journey through South Africa's diverse landscapes and cultures. Witness breathtaking wildlife in Kruger National Park, home to the iconic Big Five. Explore vibrant cities like Cape Town and Johannesburg, where modernity meets tradition. Indulge in world-class cuisine and wines in the Cape Winelands. Relax on pristine beaches along the Garden Route or experience the thrill of adventure activities such as shark cage diving and bungee jumping. With its rich heritage and natural beauty, South Africa offers an unforgettable travel experience."
+    }
+]
