@@ -1,0 +1,38 @@
+.select-country-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.country-input {
+    width: 400px;
+    padding: 8px 10px;
+    border-radius: 15px;
+    border: 1px solid #525252;
+    outline: none;
+    margin: 30px 0;
+}
+
+
+.country-flag-wrapper {
+    display: flex;
+
+}
+.country-list{
+    height: 223px;
+    flex-shrink: 1;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.country-flag-container {
+    display: flex;
+    list-style: none;
+    gap: 0 10px;
+    cursor: pointer;
+    /* flex-wrap: wrap; */
+}
+.country-flag {
+    width: 20px;
+    height: 20px;
+}
