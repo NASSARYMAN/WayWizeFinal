@@ -1,1 +1,132 @@
-{"Version":1,"Country Name":"Egypt","City Name":"","Cost of Living Month Total":"541.65","Currency":"USD","Note":"Total cost of living in Egypt for two person with average consumption for one month will be 541.65 USD, no rent price included","Status":200,"Success":true,"Restaurants prices":[{"Cost":"Meal in Inexpensive Restaurant","Value":"3.20"},{"Cost":"Meal for 2 People, Mid-range Restaurant, Three-course","Value":"18.08"},{"Cost":"McMeal at McDonalds or Alternative Combo Meal","Value":"3.84"},{"Cost":"Domestic Beer, 0.5 liter Draught","Value":"1.60"},{"Cost":"Imported Beer, 0.33 liter Bottle","Value":"1.92"},{"Cost":"Cappuccino","Value":"1.54"},{"Cost":"Coca-Cola, 0.33 liter Bottle","Value":"0.29"}],"Markets prices":[{"Cost":"Water, 0.33 liter Bottle","Value":"0.18"},{"Cost":"Milk, Regular,1 liter","Value":"0.80"},{"Cost":"Loaf of Fresh White Bread, 0.5 kg","Value":"0.51"},{"Cost":"White Rice, 1 kg","Value":"0.66"},{"Cost":"Eggs, 12 pack","Value":"1.10"},{"Cost":"Local Cheese, 1 kg","Value":"2.75"},{"Cost":"Chicken Breasts, Boneless and Skinless, 1 kg","Value":"4.32"},{"Cost":"Beef Round or Equivalent Back Leg Red Meat, 1 kg","Value":"8.47"},{"Cost":"Apples, 1 kg","Value":"1.30"},{"Cost":"Banana, 1 kg","Value":"0.63"},{"Cost":"Oranges, 1 kg","Value":"0.41"},{"Cost":"Tomato, 1 kg","Value":"0.37"},{"Cost":"Potato, 1 kg","Value":"0.36"},{"Cost":"Onion, 1 kg","Value":"0.41"},{"Cost":"Lettuce, 1 head","Value":"0.25"},{"Cost":"Water, 1.5 liter Bottle","Value":"0.27"},{"Cost":"Bottle of Wine, Mid-Range Price","Value":"7.70"},{"Cost":"Domestic Beer, 0.5 liter Bottle","Value":"1.12"},{"Cost":"Imported Beer, 0.33 liter Bottle","Value":"1.73"},{"Cost":"Pack of Cigarettes","Value":"1.99"}],"Transportation prices":[{"Cost":"One-way Ticket, Local Transport","Value":"0.12"},{"Cost":"Monthly Pass, Regular Price","Value":"3.84"},{"Cost":"Taxi Start, Normal Tariff","Value":"0.32"},{"Cost":"Taxi, price for 1 km, Normal Tariff","Value":"0.12"},{"Cost":"Taxi, price for 1 hour Waiting, Normal Tariff","Value":"1.28"},{"Cost":"Gasoline, 1 liter","Value":"0.29"},{"Cost":"Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)","Value":"28,839.69"},{"Cost":"Honda Civic 1.6 Or Alternative New Car","Value":"25,170.05"}],"Utilities Per Month prices":[{"Cost":"Basic utilities for 85m2 Apartment including Electricity, Heating or Cooling, Water and Garbage","Value":"21.82"},{"Cost":"Internet, 60 Mbps or More, Unlimited Data, Cable/ADSL","Value":"21.45"}],"Sports And Leisure prices":[{"Cost":"Fitness Club, Monthly Fee for 1 Adult","Value":"24.34"},{"Cost":"Tennis Court Rent, 1 Hour on Weekend","Value":"8.00"}],"Salaries And Financing prices":[{"Cost":"Cinema ticket, 1 Seat","Value":"3.68"},{"Cost":"Average Monthly Net Salary, After Tax","Value":"183.36"},{"Cost":"Mortgage Interest Rate in Percentages for 20 Years Fixed-Rate, Yearly, Fixed-Rate","Value":"0.04 %"}],"Childcare prices":[{"Cost":"Private Preschool or Kindergarten, Monthly for 1 Child","Value":"137.80"},{"Cost":"International Primary School, Yearly for 1 Child","Value":"2,665.09"}],"Clothing And Shoes prices":[{"Cost":"Pair of Jeans in a Chain Store Like George, H&M, Zara, etc.","Value":"54.56"},{"Cost":"Summer Dress in a Chain Store Like George, H&M, Zara, etc.","Value":"44.11"},{"Cost":"Pair of Running Shoes, Mid-Range Price","Value":"94.27"},{"Cost":"Pair of Leather Business Shoes","Value":"57.91"}],"Rent Per Month prices":[{"Cost":"One bedroom apartment in city centre","Value":"172.61"},{"Cost":"One bedroom apartment outside of city centre","Value":"96.47"},{"Cost":"Three bedroom apartment in city centre","Value":"364.98"},{"Cost":"Three bedroom apartment outside of city centre","Value":"195.10"}],"Buy Apartment prices":[{"Cost":"Price per m2 to Buy Apartment in City Center","Value":"561.57"},{"Cost":"Price per m2 to Buy Apartment Outside of City Center","Value":"323.70"}]}
+{
+  "Version": 1,
+  "Country Name": "Egypt",
+  "City Name": "",
+  "Cost of Living Month Total": "541.65",
+  "Currency": "USD",
+  "Note": "Total cost of living in Egypt for two person with average consumption for one month will be 541.65 USD, no rent price included",
+  "Status": 200,
+  "Success": true,
+  "Restaurants prices": [
+    { "Cost": "Meal in Inexpensive Restaurant", "Value": "3.20" },
+    {
+      "Cost": "Meal for 2 People, Mid-range Restaurant, Three-course",
+      "Value": "18.08"
+    },
+    {
+      "Cost": "McMeal at McDonalds or Alternative Combo Meal",
+      "Value": "3.84"
+    },
+    { "Cost": "Domestic Beer, 0.5 liter Draught", "Value": "1.60" },
+    { "Cost": "Imported Beer, 0.33 liter Bottle", "Value": "1.92" },
+    { "Cost": "Cappuccino", "Value": "1.54" },
+    { "Cost": "Coca-Cola, 0.33 liter Bottle", "Value": "0.29" }
+  ],
+  "Markets prices": [
+    { "Cost": "Water, 0.33 liter Bottle", "Value": "0.18" },
+    { "Cost": "Milk, Regular,1 liter", "Value": "0.80" },
+    { "Cost": "Loaf of Fresh White Bread, 0.5 kg", "Value": "0.51" },
+    { "Cost": "White Rice, 1 kg", "Value": "0.66" },
+    { "Cost": "Eggs, 12 pack", "Value": "1.10" },
+    { "Cost": "Local Cheese, 1 kg", "Value": "2.75" },
+    { "Cost": "Chicken Breasts, Boneless and Skinless, 1 kg", "Value": "4.32" },
+    {
+      "Cost": "Beef Round or Equivalent Back Leg Red Meat, 1 kg",
+      "Value": "8.47"
+    },
+    { "Cost": "Apples, 1 kg", "Value": "1.30" },
+    { "Cost": "Banana, 1 kg", "Value": "0.63" },
+    { "Cost": "Oranges, 1 kg", "Value": "0.41" },
+    { "Cost": "Tomato, 1 kg", "Value": "0.37" },
+    { "Cost": "Potato, 1 kg", "Value": "0.36" },
+    { "Cost": "Onion, 1 kg", "Value": "0.41" },
+    { "Cost": "Lettuce, 1 head", "Value": "0.25" },
+    { "Cost": "Water, 1.5 liter Bottle", "Value": "0.27" },
+    { "Cost": "Bottle of Wine, Mid-Range Price", "Value": "7.70" },
+    { "Cost": "Domestic Beer, 0.5 liter Bottle", "Value": "1.12" },
+    { "Cost": "Imported Beer, 0.33 liter Bottle", "Value": "1.73" },
+    { "Cost": "Pack of Cigarettes", "Value": "1.99" }
+  ],
+  "Transportation prices": [
+    { "Cost": "One-way Ticket, Local Transport", "Value": "0.12" },
+    { "Cost": "Monthly Pass, Regular Price", "Value": "3.84" },
+    { "Cost": "Taxi Start, Normal Tariff", "Value": "0.32" },
+    { "Cost": "Taxi, price for 1 km, Normal Tariff", "Value": "0.12" },
+    {
+      "Cost": "Taxi, price for 1 hour Waiting, Normal Tariff",
+      "Value": "1.28"
+    },
+    { "Cost": "Gasoline, 1 liter", "Value": "0.29" },
+    {
+      "Cost": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+      "Value": "28,839.69"
+    },
+    { "Cost": "Honda Civic 1.6 Or Alternative New Car", "Value": "25,170.05" }
+  ],
+  "Utilities Per Month prices": [
+    {
+      "Cost": "Basic utilities for 85m2 Apartment including Electricity, Heating or Cooling, Water and Garbage",
+      "Value": "21.82"
+    },
+    {
+      "Cost": "Internet, 60 Mbps or More, Unlimited Data, Cable/ADSL",
+      "Value": "21.45"
+    }
+  ],
+  "Sports And Leisure prices": [
+    { "Cost": "Fitness Club, Monthly Fee for 1 Adult", "Value": "24.34" },
+    { "Cost": "Tennis Court Rent, 1 Hour on Weekend", "Value": "8.00" }
+  ],
+  "Salaries And Financing prices": [
+    { "Cost": "Cinema ticket, 1 Seat", "Value": "3.68" },
+    { "Cost": "Average Monthly Net Salary, After Tax", "Value": "183.36" },
+    {
+      "Cost": "Mortgage Interest Rate in Percentages for 20 Years Fixed-Rate, Yearly, Fixed-Rate",
+      "Value": "0.04 %"
+    }
+  ],
+  "Childcare prices": [
+    {
+      "Cost": "Private Preschool or Kindergarten, Monthly for 1 Child",
+      "Value": "137.80"
+    },
+    {
+      "Cost": "International Primary School, Yearly for 1 Child",
+      "Value": "2,665.09"
+    }
+  ],
+  "Clothing And Shoes prices": [
+    {
+      "Cost": "Pair of Jeans in a Chain Store Like George, H&M, Zara, etc.",
+      "Value": "54.56"
+    },
+    {
+      "Cost": "Summer Dress in a Chain Store Like George, H&M, Zara, etc.",
+      "Value": "44.11"
+    },
+    { "Cost": "Pair of Running Shoes, Mid-Range Price", "Value": "94.27" },
+    { "Cost": "Pair of Leather Business Shoes", "Value": "57.91" }
+  ],
+  "Rent Per Month prices": [
+    { "Cost": "One bedroom apartment in city centre", "Value": "172.61" },
+    {
+      "Cost": "One bedroom apartment outside of city centre",
+      "Value": "96.47"
+    },
+    { "Cost": "Three bedroom apartment in city centre", "Value": "364.98" },
+    {
+      "Cost": "Three bedroom apartment outside of city centre",
+      "Value": "195.10"
+    }
+  ],
+  "Buy Apartment prices": [
+    {
+      "Cost": "Price per m2 to Buy Apartment in City Center",
+      "Value": "561.57"
+    },
+    {
+      "Cost": "Price per m2 to Buy Apartment Outside of City Center",
+      "Value": "323.70"
+    }
+  ]
+}
