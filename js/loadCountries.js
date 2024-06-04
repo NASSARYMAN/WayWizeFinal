@@ -74,8 +74,10 @@ async function fetchCountriesFromApi(countryName) {
     method: "GET",
     headers: {
       /*Bring this token from rapid api */
-      'X-RapidAPI-Key': '05718957c0msh786f78e7a26b1dap1e04e9jsne64a37d2225a',
-      'X-RapidAPI-Host': 'cities-cost-of-living-and-average-prices-api.p.rapidapi.com'
+      // 'X-RapidAPI-Key': '05718957c0msh786f78e7a26b1dap1e04e9jsne64a37d2225a',
+      // 'X-RapidAPI-Host': 'cities-cost-of-living-and-average-prices-api.p.rapidapi.com'
+      "X-RapidAPI-Key": "4df15bef19msh966550bb17fcd97p1258c8jsn4af2b1187c63",
+      "X-RapidAPI-Host":"cities-cost-of-living-and-average-prices-api.p.rapidapi.com",
     },
   };
 
@@ -99,8 +101,11 @@ async function fetchCountriesComparision(firstCountry, secondCountry) {
     method: "GET",
     headers: {
       /*Bring this token from rapid api */
-      'X-RapidAPI-Key': '05718957c0msh786f78e7a26b1dap1e04e9jsne64a37d2225a',
-      'X-RapidAPI-Host': 'cities-cost-of-living-and-average-prices-api.p.rapidapi.com'
+      // 'X-RapidAPI-Key': '05718957c0msh786f78e7a26b1dap1e04e9jsne64a37d2225a',
+      // 'X-RapidAPI-Host': 'cities-cost-of-living-and-average-prices-api.p.rapidapi.com'
+
+      "X-RapidAPI-Key": "4df15bef19msh966550bb17fcd97p1258c8jsn4af2b1187c63",
+      "X-RapidAPI-Host":"cities-cost-of-living-and-average-prices-api.p.rapidapi.com",
     },
   };
 

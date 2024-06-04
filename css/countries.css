@@ -1,3 +1,8 @@
+
+.country-page {
+    margin: 135px 0 50px 0;
+}
+
 .select-country-container {
     display: flex;
     flex-direction: column;
@@ -36,4 +41,77 @@
 .country-flag {
     width: 20px;
     height: 20px;
+}
+
+.country-nav {
+    background-color: #a367b1 !important;
+    /* margin-bottom: 50px; */
+}
+.comparision-nav{
+
+}
+.comparision-page {
+    margin: 100px 0 0 0;
+}
+
+/*Price*/
+.country-page-header {
+    font-weight: bold;
+    font-size: 42px;
+}
+.country-description {
+    margin: 20px 0;
+    font-size: 20px;
+}
+.prices-wrapper {
+    margin: 10px 0;
+    flex-direction: column;
+    align-items: flex-start !important;
+}
+.price-section-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    width: 100%;
+    gap: 0 10px;
+    padding: 0 0 20px 0;
+    margin: 10px 0;
+    font-size: 18px;
+    border-bottom: 1px solid #a5a5a5;
+}
+.prices-wrapper{
+    font-weight: bold;
+    display: flex;
+    align-items : center;
+}
+.price-text{
+    font-weight: 500;
+}
+.prices-wrapper .currency{
+    color: green ;
+    padding-left: 5px;
+    font-size: 14px;
+}
+.price-inside-wrapper > div {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 0;
+}
+.price-inside-wrapper > div h2 {
+ font-weight: bold  ;
+}
+
+/*comparision-page*/
+
+.comparision-page {
+    width: 95%;
+    margin: 100px auto;
+
+    display: flex;
+   align-items: first baseline;
+}
+.comparision-page .first-country, .second-country {
+    width: 90%;
+    padding: 0 20px;
 }
