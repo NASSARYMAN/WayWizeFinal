@@ -20,7 +20,7 @@ function loadEachPrice(result, priceName) {
     const prices = result[priceName];
     if (!prices) return '';  // Return an empty string if the prices array is not found.
 
-    const items = prices.map((price) => {return `<ul class="price-section-wrapper"><li class="price-text">${price.Cost}:</li> <li class="price-currency">${price.Value}<span class=currency>${result.Currency}</span></li></ul>`}).join('');
+    const items = prices.map((price) => {return `<ul class="price-section-wrapper"><li class="price-text">${price.Cost}:</li> <li class="price-currency">${price.Value}<span class=currency>${result.Currency}$</span></li></ul>`}).join('');
     return `
         <h2>${priceName}</h2>
         <div class="prices-wrapper">${items}</div>
@@ -57,16 +57,18 @@ document.addEventListener('DOMContentLoaded', async (event) => {
     <div class="country-page-container container w-75 fs-1">
         <h1 class="country-page-header my-5">${resultsObject['Country Name']} is a great country with beautiful touristic destinations discover everything about prices, transportations and more</h1>
         <div class="country-description">${loadCountryDescription(countryDescription,resultsObject['Country Name'])}</div>
-        <div class="apartment-prices">${loadEachPrice(resultsObject, "Buy Apartment prices")}</div>
-        <div class="childcare-prices">${loadEachPrice(resultsObject, "Childcare prices")}</div>
-        <div class="clothing-Shoes-prices">${loadEachPrice(resultsObject, "Clothing And Shoes prices")}</div>
-        <div class="markets-prices">${loadEachPrice(resultsObject, "Markets prices")}</div>
-        <div class="rent-prices">${loadEachPrice(resultsObject, "Rent Per Month prices")}</div>
-        <div class="restaurants-prices">${loadEachPrice(resultsObject, "Restaurants prices")}</div>
-        <div class="financing-tax">${loadEachPrice(resultsObject, "Salaries And Financing prices")}</div>
-        <div class="sports-leisure">${loadEachPrice(resultsObject, "Sports And Leisure prices")}</div>
-        <div class="transportation-prices">${loadEachPrice(resultsObject, "Transportation prices")}</div>
-        <div class="utilities-month-prices">${loadEachPrice(resultsObject, "Utilities Per Month prices")}</div>
+        <div class="price-inside-wrapper">
+            <div class="apartment-prices">${loadEachPrice(resultsObject, "Buy Apartment prices")}</div>
+            <div class="childcare-prices">${loadEachPrice(resultsObject, "Childcare prices")}</div>
+            <div class="clothing-Shoes-prices">${loadEachPrice(resultsObject, "Clothing And Shoes prices")}</div>
+            <div class="markets-prices">${loadEachPrice(resultsObject, "Markets prices")}</div>
+            <div class="rent-prices">${loadEachPrice(resultsObject, "Rent Per Month prices")}</div>
+            <div class="restaurants-prices">${loadEachPrice(resultsObject, "Restaurants prices")}</div>
+            <div class="financing-tax">${loadEachPrice(resultsObject, "Salaries And Financing prices")}</div>
+            <div class="sports-leisure">${loadEachPrice(resultsObject, "Sports And Leisure prices")}</div>
+            <div class="transportation-prices">${loadEachPrice(resultsObject, "Transportation prices")}</div>
+            <div class="utilities-month-prices">${loadEachPrice(resultsObject, "Utilities Per Month prices")}</div>
+        </div>
     </div>
 `
 });
